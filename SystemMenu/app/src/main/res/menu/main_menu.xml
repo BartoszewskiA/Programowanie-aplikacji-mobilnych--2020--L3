@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mainMenu01"
+        android:title="Tryb jasny"
+        />
+    <item
+        android:id="@+id/mainMenu02"
+        android:title="Tryb ciemny"
+        />
+</menu>

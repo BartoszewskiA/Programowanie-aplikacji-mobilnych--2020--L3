@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/contextmenu01"
+        android:title="Pokaż powiększenie"
+        />
+    <item
+        android:id="@+id/contextmenu02"
+        android:title="Pokaż opis"
+        />
+</menu>

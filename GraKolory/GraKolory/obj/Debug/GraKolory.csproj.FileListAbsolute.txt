@@ -1,0 +1,10 @@
+J:\Programy 2020\AM_L3\GraKolory\GraKolory\bin\Debug\GraKolory.exe.config
+J:\Programy 2020\AM_L3\GraKolory\GraKolory\bin\Debug\GraKolory.exe
+J:\Programy 2020\AM_L3\GraKolory\GraKolory\bin\Debug\GraKolory.pdb
+J:\Programy 2020\AM_L3\GraKolory\GraKolory\obj\Debug\GraKolory.csprojAssemblyReference.cache
+J:\Programy 2020\AM_L3\GraKolory\GraKolory\obj\Debug\GraKolory.Form1.resources
+J:\Programy 2020\AM_L3\GraKolory\GraKolory\obj\Debug\GraKolory.Properties.Resources.resources
+J:\Programy 2020\AM_L3\GraKolory\GraKolory\obj\Debug\GraKolory.csproj.GenerateResource.cache
+J:\Programy 2020\AM_L3\GraKolory\GraKolory\obj\Debug\GraKolory.csproj.CoreCompileInputs.cache
+J:\Programy 2020\AM_L3\GraKolory\GraKolory\obj\Debug\GraKolory.exe
+J:\Programy 2020\AM_L3\GraKolory\GraKolory\obj\Debug\GraKolory.pdb
